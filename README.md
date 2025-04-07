@@ -12,7 +12,7 @@ Potem uruchomic jakis bootstrap:
 
 Windows:
 ```
-./bootstrap-vcpkg.bat
+.\bootstrap-vcpkg.bat
 ```
 
 Linux:
